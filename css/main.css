@@ -142,7 +142,8 @@ summary {
 
 .about__text {
   font-family: 'Montserrat', sans-serif;
-  font-style: 400;
+  font-style: normal;
+  font-weight: 400;
   font-size: 18px;
   line-height: 1.22;
   color: #2e2520;
