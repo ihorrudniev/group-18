@@ -165,7 +165,8 @@ summary {
   /* Legacy iOS */
 }
 
-.fonts-view {
+.section__title,
+.servises__title {
   font-family: 'Caveat Brush', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -184,7 +185,9 @@ summary {
   color: #2e2520;
 }
 
-.about__text {
+.section__text,
+.section__item,
+.servises__text {
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
